@@ -33,3 +33,4 @@ ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
+*.sln
