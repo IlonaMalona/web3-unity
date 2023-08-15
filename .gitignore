@@ -38,3 +38,4 @@ ExportedObj/
 *.tmp
 *.user
 *.userprefs
+*.pidb
