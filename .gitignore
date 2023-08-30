@@ -47,3 +47,5 @@ ExportedObj/
 *.VC.db
 *.log
 *.bak
+
+# Unity3D generated meta files
