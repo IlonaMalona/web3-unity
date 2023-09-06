@@ -57,3 +57,4 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
+*.apk
