@@ -63,3 +63,4 @@ sysinfo.txt
 *.app
 
 # Crashlytics generated file
+crashlytics-build.properties
