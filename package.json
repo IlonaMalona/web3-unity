@@ -5,3 +5,4 @@
     "description": "Moralis provides a single workflow for building high performance dapps. Fully compatible with your favorite web3 tools and services. This SDK brings the power of Moralis to your Unity projects.",
     "homepage": "https://moralis.io",
     "unity": "2020.3",
+    "hideInEditor": false,
