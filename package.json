@@ -14,3 +14,4 @@
         "type": "git",
         "url": "https://github.com/MoralisWeb3/web3-unity-sdk.git"
     },
+    "dependencies": {
