@@ -17,3 +17,4 @@
     "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2"
     },
+    "samples": [
