@@ -20,3 +20,4 @@
     "samples": [
         {
             "displayName": "AuthenticationKit",
+            "description": "Demonstrates the Moralis AuthenticationKit to connect Unity to Moralis and Web3.",
