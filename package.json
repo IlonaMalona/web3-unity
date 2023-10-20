@@ -23,3 +23,4 @@
             "description": "Demonstrates the Moralis AuthenticationKit to connect Unity to Moralis and Web3.",
             "path": "Samples~/AuthenticationKit"
         }
+    ],
