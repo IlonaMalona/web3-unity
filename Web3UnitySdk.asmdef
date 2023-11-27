@@ -2,3 +2,4 @@
     "name": "Moralis.Web3UnitySdk",
     "rootNamespace": "",
     "references": [
+        "Nethereum",
