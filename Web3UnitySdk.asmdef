@@ -3,3 +3,4 @@
     "rootNamespace": "",
     "references": [
         "Nethereum",
+        "UniTask",
