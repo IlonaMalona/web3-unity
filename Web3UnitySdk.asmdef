@@ -4,3 +4,4 @@
     "references": [
         "Nethereum",
         "UniTask",
+        "WalletConnectSharp.Unity"
